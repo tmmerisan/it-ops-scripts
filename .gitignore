@@ -1,0 +1,10 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+
+# Never commit anything that looks like real environment data
+*.tenant.json
+*secrets*
+*credentials*
